@@ -44,25 +44,23 @@ A responsive e-commerce website inspired by Reliance Digital, built with React a
 
 ### Frontend Developer @ The Regiment
 
-Contributed to the development and maintenance of multiple production-grade web applications, including:
+Worked on multiple production-grade web applications across domains including:
 
-- 🌐 CodeRegiment Platform
-- 🤖 Cognitic AI
-- 🏔️ GiriHimalaya
-- 📧 MailTR
-- 🎓 Learning Management System (LMS)
-- 📚 Student Dashboard
-- 🛍️ Commerce Platform
+- Learning Management Systems (LMS)
+- AI-powered platforms
+- Business websites
+- E-commerce solutions
+- Travel & tourism platforms
+- Email and communication platforms
 
 ### Key Contributions
 
-- Built reusable and scalable React components
-- Developed responsive user interfaces using Tailwind CSS
+- Developed scalable React applications
+- Built reusable UI components
 - Integrated REST APIs using RTK Query
 - Collaborated with designers and backend engineers
-- Worked on authentication and role-based access
-- Participated in code reviews and bug fixing
-- Improved application performance and user experience
+- Implemented responsive and accessible interfaces
+- Participated in code reviews and feature development
 
 ## 📫 Connect With Me
 
